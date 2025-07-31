@@ -6,6 +6,8 @@ past 200 days, helping the model understand overall trend direction and reducing
 a balanced view of both recent momentum and long-term market behavior, improving the accuracy and reliability of future price predictions.
 
 How to Run the project 
+
+
 To run this project, first ensure that Python is installed on your system along with the required libraries such as pandas, numpy, matplotlib, yfinance, sklearn, 
 and torch. Begin by cloning the repository or downloading the project files. Then, open the Jupyter notebook or Python script and specify the stock symbol along with 
 the start and end dates for fetching historical data. The data is preprocessed, including feature scaling and sequence generation, before being fed into the LSTM
